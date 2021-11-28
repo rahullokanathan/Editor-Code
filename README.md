@@ -8,7 +8,7 @@
 ## Online code editor for HTML, CSS and Javascript to discover frontend code
 
 <div align="center">
-  <img alt="Demo" src="https://blog.codepen.io/wp-content/uploads/2018/01/Collab-Mode-2.gif"/>
+  <img alt="" src="https://blog.codepen.io/wp-content/uploads/2018/01/Collab-Mode-2.gif"/>
 </div>
 
 ### Features:
