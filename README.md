@@ -1,7 +1,7 @@
 <div align="center">
 
 # Editor.io
-## https://editor.soumyajit.tech/
+## https://editor-loka-app.netlify.app/
 
 </div>
 
